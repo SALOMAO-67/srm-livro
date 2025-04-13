@@ -1,9 +1,9 @@
 # srm-livro
 <section>
-  </header>
+  
     <h1>Livro Interativo SRM</h1>
     <p>Inteligência Artificial para Microempreendedores Individuais</p>
-  </header>
+  
   <section>
     <h2>Capítulos</h2>
     <a href="#cap1">Capítulo 1 – O Mundo Digital e o MEI</a>
@@ -55,6 +55,3 @@
 
   <footer>
     <p>SRM - Empreendedorismo com Inteligência Artificial</p>
-  </footer>
-</body>
-</html>
