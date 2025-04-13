@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="pt-br">
 <head>
   <meta charset="UTF-8">
@@ -68,7 +68,7 @@
 </head>
 <body>
   <header>
-    <img src="/mnt/data/7795064d-d7c4-42b2-879a-c5456c60d6ab.png" alt="Logo SRM">
+    <img src="https://drive.google.com/file/d/1x8NM3nLMO7Z0OxosNt9BEtTk7uhX6xi6/view?usp=drivesdk" alt="Logo SRM">
     <nav>
       <a href="#capitulos">Capítulos</a>
       <a href="https://kiwifi.com/srm-livro" target="_blank">Compre o Livro</a>
