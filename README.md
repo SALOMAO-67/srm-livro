@@ -1,6 +1,6 @@
 # srm-livro
-<section>
-  
+
+<head>
     <h1>Livro Interativo SRM</h1>
     <p>Inteligência Artificial para Microempreendedores Individuais</p>
   
