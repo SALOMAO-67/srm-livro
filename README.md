@@ -112,8 +112,7 @@
 </head>
 <body>
   <header>
-    <img src="logo-srm.png" alt="![17445869257186487903008899836761](https://github.com/user-attachments/assets/63ac53fb-924c-4895-b9c4-a2307d64207e)
-">
+    <img src=[17445869257186487903008899836761](https://github.com/user-attachments/assets/63ac53fb-924c-4895-b9c4-a2307d64207e)">
     <h1>Inteligência Artificial para MEIs</h1>
     <p>Transformando seu Negócio com a SRM no Mundo Virtual</p>
   </header>
@@ -179,8 +178,8 @@
 
   <div class="social">
     <h3>Nos siga e fale conosco:</h3>
-    <a href="https://wa.me/5599999999999" target="_blank" title="WhatsApp"><i class="fab fa-whatsapp"></i></a>
-    <a href="https://instagram.com/srm_oficial" target="_blank" title="Instagram"><i class="fab fa-instagram"></i></a>
+    <a href="https://wa.me/5564992934568" target="_blank" title="WhatsApp"><i class="fab fa-whatsapp"></i></a>
+    <a href="https://instagram.com/souza_melo3" target="_blank" title="Instagram"><i class="fab fa-instagram"></i></a>
     <a href="https://facebook.com/srmoficial" target="_blank" title="Facebook"><i class="fab fa-facebook"></i></a>
   </div>
 
