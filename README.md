@@ -1,54 +1,9 @@
 # srm-livro
-Livro interativo da SRM para MEIs.
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>SRM - Livro Interativo</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 0;
-      padding: 20px;
-      background-color: #f9f9f9;
-      color: #333;
-    }
-    header {
-      background-color: #007acc;
-      color: white;
-      padding: 20px;
-      text-align: center;
-    }
-    section {
-      margin: 20px 0;
-    }
-    a {
-      color: #007acc;
-      text-decoration: none;
-      display: block;
-      margin-bottom: 10px;
-    }
-    .checklist {
-      background-color: #e0f7e9;
-      padding: 15px;
-      border-left: 5px solid #00b894;
-      margin-top: 20px;
-    }
-    footer {
-      margin-top: 40px;
-      text-align: center;
-      font-size: 0.9em;
-      color: #777;
-    }
-  </style>
-</head>
-<body>
-  <header>
+<section>
+  </header>
     <h1>Livro Interativo SRM</h1>
     <p>Inteligência Artificial para Microempreendedores Individuais</p>
   </header>
-
   <section>
     <h2>Capítulos</h2>
     <a href="#cap1">Capítulo 1 – O Mundo Digital e o MEI</a>
