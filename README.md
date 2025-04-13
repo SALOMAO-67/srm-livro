@@ -72,7 +72,7 @@
     <nav>
       <a href="#capitulos">Capítulos</a>
       <a href="https://kiwifi.com/srm-livro" target="_blank">Compre o Livro</a>
-      <a href="https://wa.me/55XXXXXXXXXXX" target="_blank">WhatsApp</a>
+      <a href="https://wa.me/5564992934568" target="_blank">WhatsApp</a>
     </nav>
   </header>
 
