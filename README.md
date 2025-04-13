@@ -112,7 +112,8 @@
 </head>
 <body>
   <header>
-    <img src="logo-srm.png" alt="Logo SRM">
+    <img src="logo-srm.png" alt="![17445869257186487903008899836761](https://github.com/user-attachments/assets/63ac53fb-924c-4895-b9c4-a2307d64207e)
+">
     <h1>Inteligência Artificial para MEIs</h1>
     <p>Transformando seu Negócio com a SRM no Mundo Virtual</p>
   </header>
