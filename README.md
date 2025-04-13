@@ -52,15 +52,15 @@ Livro interativo da SRM para MEIs.
   <section>
     <h2>Capítulos</h2>
     <a href="#cap1">Capítulo 1 – O Mundo Digital e o MEI</a>
-    
+    <section>
     <a href="#cap2">Capítulo 2 – Inteligência Artificial na Prática</a>
-    
+    <section>
     <a href="#cap3">Capítulo 3 – Passo a Passo com a SRM</a>
-    
+    <section>
     <a href="#cap4">Capítulo 4 – Superando Desafios</a>
-    
+    <section>
     <a href="#cap5">Capítulo 5 – O Futuro do MEI</a>
-    
+    <section>
     <a href="#cap6">Capítulo 6 – Conclusão e Próximos Passos</a>
     
   </section>
