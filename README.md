@@ -50,7 +50,7 @@
     }
     
     header, footer {
-      background: linear-gradient(135deg, var(--primary-white), var(--primary));
+      background: linear-gradient(135deg, var(--primary-dark), var(--primary));
       color: var(--white);
       padding: 1.5rem 2rem;
       text-align: center;
@@ -202,7 +202,7 @@
     
     .cta:hover, .cta:focus {
       background: transparent;
-      color: var(--accent);
+      color: var(--white);
       border-color: var(--accent);
       transform: translateY(-3px);
       box-shadow: 0 10px 20px rgba(40, 167, 69, 0.2);
