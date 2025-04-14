@@ -68,7 +68,7 @@
 </head>
 <body>
   <header>
-    <img src="https://drive.google.com/file/d/1x8NM3nLMO7Z0OxosNt9BEtTk7uhX6xi6/view?usp=drivesdk" alt="Logo SRM">
+    <img src="https://drive.google.com/uc?export=view&id=1x8NM3nLMO7Z0OxosNt9BEtTk7uhX6xi6" alt="Logo SRM">
     <nav>
       <a href="#capitulos">Capítulos</a>
       <a href="https://kiwifi.com/srm-livro" target="_blank">Compre o Livro</a>
