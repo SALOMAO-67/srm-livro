@@ -50,9 +50,9 @@
     <p>Versão digital interativa com tutoriais e materiais extras.</p>
     <a class="cta" href="https://kiwifi.com.br/loja/srm-livro">Comprar agora no Kiwifi</a>
   </section>
-
   <footer>
-    <img src="https://drive.google.com/uc?export=view&id=1x8NM3nLMO7Z0OxosNt9BEtTk7uhX6xi6" alt="Logo SRM" style="max-height: 30px;" /><br>
+  <img src="https://drive.google.com/thumbnail?id=1x8NM3nLMO7Z0OxosNt9BEtTk7uhX6xi6&sz=w300" alt="Logo SRM" style="max-height: 30px;">
+</footer>
     <p>&copy; 2025 SRM - Transformando Negócios com Inteligência Artificial</p>
     <div class="social-icons">
       <a href="https://instagram.com/souza_melo3" target="_blank"><i class="fab fa-instagram"></i></a>
