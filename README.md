@@ -23,7 +23,7 @@
 </head>
 <body>
   <header>
-    <img src="https://drive.google.com/uc?export=view&id=1x8NM3nLMO7Z0OxosNt9BEtTk7uhX6xi6" alt="Logo SRM" />
+    <img src="https://drive.google.com/uc?export=view&id=1x8NM3nLMO7Z0OxosNt9BEtTk7uhX6xi6"> alt=<"Logo SRM">
     <h1>SRM - IA para Microempreendedores</h1>
   </header>
 
