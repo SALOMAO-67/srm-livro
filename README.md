@@ -23,9 +23,9 @@
 </head>
 <body>
   <header>
-    <img src="https://drive.google.com/uc?export=view&id=1x8NM3nLMO7Z0OxosNt9BEtTk7uhX6xi6" alt="Logo SRM" />
-    <h1>SRM - IA para Microempreendedores</h1>
-  </header>
+  <img src="https://drive.google.com/thumbnail?id=1x8NM3nLMO7Z0OxosNt9BEtTk7uhX6xi6&sz=w500" alt="Logo SRM" style="max-height: 50px;">
+  <h1>SRM - IA para Microempreendedores</h1>
+</header>
 
   <nav>
     <a href="#capitulos"><i class="fas fa-book menu-icon"></i>Capítulos</a>
