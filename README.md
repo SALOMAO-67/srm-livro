@@ -22,8 +22,7 @@
   </style>
 </head>
 <body>
-  <header>
-    <img src="SRM_Logo" alt="https://drive.usercontent.google.com/download?id=1x8NM3nLMO7Z0OxosNt9BEtTk7uhX6xi6&export=view&authuser=0">
+  <header img src="SRM_Logo" alt="https://drive.usercontent.google.com/download?id=1x8NM3nLMO7Z0OxosNt9BEtTk7uhX6xi6&export=view&authuser=0">
     <h1>SRM - IA para Microempreendedores</h1>
   </header>
 
