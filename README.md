@@ -22,7 +22,7 @@
   </style>
 </head>
 <body>
-  <header img src="https://drive.usercontent.google.com/download?id=1x8NM3nLMO7Z0OxosNt9BEtTk7uhX6xi6&export=view&authuser=0" alt="https://drive.usercontent.google.com/download?id=1x8NM3nLMO7Z0OxosNt9BEtTk7uhX6xi6&export=view&authuser=0">
+  <header img src="https://drive.usercontent.google.com/download?id=1x8NM3nLMO7Z0OxosNt9BEtTk7uhX6xi6&export=view&authuser=0"> <header alt="https://drive.usercontent.google.com/download?id=1x8NM3nLMO7Z0OxosNt9BEtTk7uhX6xi6&export=view&authuser=0">
     <h1>SRM - IA para Microempreendedores</h1>
   </header>
 
@@ -51,7 +51,7 @@
   </section>
 
   <footer>
-    <img src="https://drive.google.com/uc?export=view&id=1x8NM3nLMO7Z0OxosNt9BEtTk7uhX6xi6" alt="https://drive.google.com/uc?export=view&id=1x8NM3nLMO7Z0OxosNt9BEtTk7uhX6xi6" style="max-height: 1020px;" /><br>
+   <header img src="https://drive.google.com/uc?export=view&id=1x8NM3nLMO7Z0OxosNt9BEtTk7uhX6xi6" alt="https://drive.google.com/uc?export=view&id=1x8NM3nLMO7Z0OxosNt9BEtTk7uhX6xi6"> <header style="max-height: 1020px;" /><br>
     <p>&copy; 2025 SRM - Transformando Negócios com Inteligência Artificial</p>
     <div class="social-icons">
       <a href="https://instagram.com/souza_melo3" target="_blank"><i class="fab fa-instagram"></i></a>
