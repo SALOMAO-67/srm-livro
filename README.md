@@ -22,7 +22,7 @@
   </style>
 </head>
 <body>
-  <header>
+<header
     <img src="https://drive.google.com/uc?export=view&id=1x8NM3nLMO7Z0OxosNt9BEtTk7uhX6xi6" alt="Logo SRM" />
     <h1>SRM - IA para Microempreendedores</h1>
   </header>
@@ -30,7 +30,7 @@
   <nav>
     <a href="#capitulos"><i class="fas fa-book menu-icon"></i>Capítulos</a>
     <a href="#comprar"><i class="fas fa-shopping-cart menu-icon"></i>Comprar Livro</a>
-    <a href="https://wa.me/5599999999999" target="_blank"><i class="fab fa-whatsapp menu-icon"></i>Contato</a>
+    <a href="https://wa.me/5564992934568" target="_blank"><i class="fab fa-whatsapp menu-icon"></i>Contato</a>
   </nav>
 
   <section id="capitulos">
@@ -52,12 +52,13 @@
   </section>
 
   <footer>
+    <header
     <img src="https://drive.google.com/uc?export=view&id=1x8NM3nLMO7Z0OxosNt9BEtTk7uhX6xi6" alt="Logo SRM" style="max-height: 30px;" /><br>
     <p>&copy; 2025 SRM - Transformando Negócios com Inteligência Artificial</p>
     <div class="social-icons">
-      <a href="https://instagram.com/srm_empresa" target="_blank"><i class="fab fa-instagram"></i></a>
+      <a href="https://instagram.com/souza_melo3" target="_blank"><i class="fab fa-instagram"></i></a>
       <a href="https://facebook.com/srm_empresa" target="_blank"><i class="fab fa-facebook"></i></a>
-      <a href="https://wa.me/5599999999999" target="_blank"><i class="fab fa-whatsapp"></i></a>
+      <a href="https://wa.me/5564992934568" target="_blank"><i class="fab fa-whatsapp"></i></a>
     </div>
   </footer>
 </body>
