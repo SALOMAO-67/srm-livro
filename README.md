@@ -52,7 +52,6 @@
   </section>
   <footer>
   <img src="https://drive.google.com/thumbnail?id=1x8NM3nLMO7Z0OxosNt9BEtTk7uhX6xi6&sz=w300" alt="Logo SRM" style="max-height: 30px;">
-</footer>
     <p>&copy; 2025 SRM - Transformando Negócios com Inteligência Artificial</p>
     <div class="social-icons">
       <a href="https://instagram.com/souza_melo3" target="_blank"><i class="fab fa-instagram"></i></a>
@@ -60,5 +59,3 @@
       <a href="https://wa.me/5564992934568" target="_blank"><i class="fab fa-whatsapp"></i></a>
     </div>
   </footer>
-</body>
-</html>
