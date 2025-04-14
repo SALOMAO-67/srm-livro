@@ -22,7 +22,7 @@
   </style>
 </head>
 <body>
-<header
+<select
   img src="https://drive.google.com/uc?export=view&id=1x8NM3nLMO7Z0OxosNt9BEtTk7uhX6xi6" alt="Logo SRM">
     <h1>SRM - IA para Microempreendedores</h1>
   </header>
@@ -52,9 +52,9 @@
   </section>
 
   <footer>
-    <header
-    img src="https://drive.google.com/uc?export=view&id=1x8NM3nLMO7Z0OxosNt9BEtTk7uhX6xi6" alt="Logo SRM"> 
-      style="max-height: 30px;" /><br>
+    <select
+    img src="https://drive.google.com/uc?export=view&id=1x8NM3nLMO7Z0OxosNt9BEtTk7uhX6xi6" alt="Logo SRM">
+      <header style="max-height: 30px;" /><br>
     <p>&copy; 2025 SRM - Transformando Negócios com Inteligência Artificial</p>
     <div class="social-icons">
       <a href="https://instagram.com/souza_melo3" target="_blank"><i class="fab fa-instagram"></i></a>
