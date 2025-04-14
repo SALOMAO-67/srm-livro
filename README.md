@@ -17,13 +17,13 @@
     .cta { display: block; background: #28a745; color: white; text-align: center; padding: 12px; border-radius: 5px; margin: 20px 0; text-decoration: none; font-weight: bold; }
     @media (max-width: 600px) {
       nav a { display: block; margin: 8px 0; }
-      header img { max-height: 1020px; }
+      header img { max-height: 60px; }
     }
   </style>
 </head>
 <body>
   <header>
-    <img src="https://drive.google.com/uc?export=view&id=1x8NM3nLMO7Z0OxosNt9BEtTk7uhX6xi6" alt="https://drive.usercontent.google.com/download?id=1x8NM3nLMO7Z0OxosNt9BEtTk7uhX6xi6&export=view&authuser=0">
+    <img src="SRM_Logo" alt="https://drive.usercontent.google.com/download?id=1x8NM3nLMO7Z0OxosNt9BEtTk7uhX6xi6&export=view&authuser=0">
     <h1>SRM - IA para Microempreendedores</h1>
   </header>
 
