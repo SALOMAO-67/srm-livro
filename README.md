@@ -8,7 +8,7 @@
   <style>
     body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #f9f9f9; color: #333; }
     header, footer { background: #003366; color: white; padding: 10px 20px; text-align: center; }
-    header img { max-height: 50px; }
+    header img { max-height: 120px; }
     nav { background: #0055aa; padding: 10px; text-align: center; }
     nav a { color: white; margin: 0 10px; text-decoration: none; font-weight: bold; }
     section { padding: 20px; }
@@ -17,7 +17,7 @@
     .cta { display: block; background: #28a745; color: white; text-align: center; padding: 12px; border-radius: 5px; margin: 20px 0; text-decoration: none; font-weight: bold; }
     @media (max-width: 600px) {
       nav a { display: block; margin: 8px 0; }
-      header img { max-height: 40px; }
+      header img { max-height: 120px; }
     }
   </style>
 </head>
@@ -52,7 +52,7 @@
   </section>
 
   <footer>
-    <img src="https://drive.google.com/uc?export=view&id=1x8NM3nLMO7Z0OxosNt9BEtTk7uhX6xi6" alt="Logo SRM" style="max-height: 30px;" /><br>
+    <img src="https://drive.google.com/uc?export=view&id=1x8NM3nLMO7Z0OxosNt9BEtTk7uhX6xi6" alt="https://drive.google.com/uc?export=view&id=1x8NM3nLMO7Z0OxosNt9BEtTk7uhX6xi6" style="max-height: 50px;" /><br>
     <p>&copy; 2025 SRM - Transformando Negócios com Inteligência Artificial</p>
     <div class="social-icons">
       <a href="https://instagram.com/souza_melo3" target="_blank"><i class="fab fa-instagram"></i></a>
