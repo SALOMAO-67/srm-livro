@@ -201,9 +201,8 @@
     }
     
     .cta:hover, .cta:focus {
-      background: transparent;
-      color: var(--white);
-      border-color: var(--accent);
+      background-color: var(--white);
+      border-color: var(--white);
       transform: translateY(-3px);
       box-shadow: 0 10px 20px rgba(40, 167, 69, 0.2);
     }
@@ -299,7 +298,7 @@
 </head>
 <body>
   <header>
-  <img src="https://drive.google.com/thumbnail?id=1x8NM3nLMO7Z0OxosNt9BEtTk7uhX6xi6&sz=w500" alt="Logo SRM" style="max-height: 120px 80px;">
+  <img src="https://drive.google.com/thumbnail?id=1x8NM3nLMO7Z0OxosNt9BEtTk7uhX6xi6&sz=w500" alt="Logo SRM" style="max-height: 80px;">
   <h1>SRM - IA para Microempreendedores</h1>
 </header>
   <nav>
