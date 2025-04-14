@@ -22,7 +22,6 @@
   </style>
 </head>
 <body>
-<select
   img src="https://drive.google.com/uc?export=view&id=1x8NM3nLMO7Z0OxosNt9BEtTk7uhX6xi6" alt="Logo SRM">
     <h1>SRM - IA para Microempreendedores</h1>
   </header>
@@ -51,8 +50,7 @@
     <a class="cta" href="https://kiwifi.com.br/loja/srm-livro">Comprar agora no Kiwifi</a>
   </section>
 
-  <footer>
-    <select
+  <footer 
     img src="https://drive.google.com/uc?export=view&id=1x8NM3nLMO7Z0OxosNt9BEtTk7uhX6xi6" alt="Logo SRM">
       <header style="max-height: 30px;" /><br>
     <p>&copy; 2025 SRM - Transformando Negócios com Inteligência Artificial</p>
