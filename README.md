@@ -17,7 +17,7 @@
     .cta { display: block; background: #28a745; color: white; text-align: center; padding: 12px; border-radius: 5px; margin: 20px 0; text-decoration: none; font-weight: bold; }
     @media (max-width: 600px) {
       nav a { display: block; margin: 8px 0; }
-      header img { max-height: 120px; }
+      header img { max-height: 60px 60px; }
     }
   </style>
 </head>
@@ -52,7 +52,7 @@
   </section>
 
   <footer>
-    <img src="https://drive.google.com/uc?export=view&id=1x8NM3nLMO7Z0OxosNt9BEtTk7uhX6xi6" alt="https://drive.google.com/uc?export=view&id=1x8NM3nLMO7Z0OxosNt9BEtTk7uhX6xi6" style="max-height: 50px;" /><br>
+    <img src="https://drive.google.com/uc?export=view&id=1x8NM3nLMO7Z0OxosNt9BEtTk7uhX6xi6" alt="https://drive.google.com/uc?export=view&id=1x8NM3nLMO7Z0OxosNt9BEtTk7uhX6xi6" style="max-height: 60px 60px;" /><br>
     <p>&copy; 2025 SRM - Transformando Negócios com Inteligência Artificial</p>
     <div class="social-icons">
       <a href="https://instagram.com/souza_melo3" target="_blank"><i class="fab fa-instagram"></i></a>
